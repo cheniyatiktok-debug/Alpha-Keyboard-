@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype
+        android:imeSubtypeLocale="en_US"
+        android:label="@string/subtype_english"
+        android:imeSubtypeMode="keyboard"
+        android:isAsciiCapable="true" />
+    <subtype
+        android:imeSubtypeLocale="si_LK"
+        android:label="@string/subtype_sinhala"
+        android:imeSubtypeMode="keyboard"
+        android:isAsciiCapable="false" />
+</input-method>

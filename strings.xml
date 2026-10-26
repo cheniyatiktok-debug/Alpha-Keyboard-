@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Alpha Keyboard</string>
+    <string name="keyboard_name">Alpha Keyboard</string>
+    <string name="subtype_english">English</string>
+    <string name="subtype_sinhala">Sinhala</string>
+</resources>
